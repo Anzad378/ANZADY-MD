@@ -1,21 +1,21 @@
 {
-  "name": "KELLY MD ",
-  "description": " WHASSAP BOT MADE BY LOFT XMD.",
+  "name": "ANZADY MD ",
+  "description": " WHASSAP BOT MADE BY ANZADY MD.",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/planet-md/KELLY-MD-Device",
+  "repository": "https://github.com/Anzad378/ANZADY-MD-Device",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255697929318"
+      "value": "255654667145"
     },
     "BOTNAME": {
       "description": "Give your bot a name",
       "required": true,
-      "value": "KELLY-𝐃𝐄𝐕𝐈𝐂𝐄"
+      "value": "ANZADY-𝐃𝐄𝐕𝐈𝐂𝐄"
     },
     "DATABASE_URL": {
       "description": "your mongodb database url",
