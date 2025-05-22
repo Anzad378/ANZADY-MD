@@ -60,7 +60,7 @@
 
 🌐**JOINI IN OUR GROUP** 
 <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
-  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/joinour group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/join our group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 
