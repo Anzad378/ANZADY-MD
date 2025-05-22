@@ -16,7 +16,7 @@ let imdbHandler = async (m, { conn, text }) => {
 
     let ratings = json.ratings.map(rating => `• *${rating.source}:* ${rating.value}`).join('\n')
 
-    let movieInfo = `*𝐋𝐎F𝐓 X𝐌𝐃  Movie Information:*\n
+    let movieInfo = `*ANZADY 𝐌𝐃  Movie Information:*\n
      • *Title:* ${json.title}\n
      • *Year:* ${json.year}\n
      • *Seasons:* ${json.totalseasons}\n
