@@ -19,7 +19,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f429f76b-7520-4b95-83f3-71e5d6cfd44a)
-" alt="[anzad]
+" alt="![anzad](https://github.com/user-attachments/assets/7b28ba62-6a9f-4c2d-9d12-e30917a0fa5b)
 " width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
