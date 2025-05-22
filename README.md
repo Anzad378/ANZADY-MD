@@ -16,6 +16,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CREATED+BY+ANZADY;ANZADY+TECH;POWERED+BY+ANZADY;FAST++SAFE+RELIABLE" alt="Typing animation for features" />
 </p>
 
+
+<p align="center">
+  <img src="https://files.catbox.moe/xbrltv.jpg" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+</p>
+
+
    # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; WELCOME TO ANZADY-MD &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
 
