@@ -52,9 +52,9 @@
 
 ----------------------------------
 
- 🌍 **LOFT-XMD SUPPORT**
+ 🌍 **ANZADY-MD SUPPORT**
 
-<a href="https://whatsapp.com/channel/0029Vb6B9xFCxoAseuG1g610">
+<a href="https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f">
   <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
