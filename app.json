@@ -1,21 +1,21 @@
 {
-  "name": "LOFT X𝐌𝐃 ",
-  "description": " with great power comes with great responsibilities. follow the deployment process below..",
+  "name": "ANZADY 𝐌𝐃 ",
+  "description": " THIS BOT MADE BY ANZADY-MD TEACH",
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/LOFTXMD23/LOFT-XMD-S24",
+  "repository": "https://github.com/Anzad378/ANZADY-MD",
   "stack": "container",
   "env": {
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255778018545; LOFT XMD"
+      "value": "255654667145; ANZADY-MD"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
       "required": true,
-      "value": "LOFT-XMD©®"
+      "value": "ANZADY-MD"
     },
     "SESSION_ID": {
       "description": "your session id. get session here https://silva-session-selector.vercel.app/",
@@ -32,12 +32,12 @@
       "required": true,
       "value": "."
     },
-    "statusview": {
+    "STATUSVIEW": {
       "description": "make it true if you want bot to view status",
       "required": true,
       "value": "true"
     },
-    "autoRead": {
+    "AUTOREAD": {
       "description": "make it true or false if you want bot to read messages leave it blank if you don't want it to read messages",
       "required": false,
       "value": ""
@@ -52,7 +52,7 @@
       "required": false,
       "value": "true"
       },
-    "ANTILINK": {
+    "ANTI_LINK": {
       "description": "make it true or false if you want bot to delete group links sent in groups. of you are admin",
       "required": false,
       "value": "true"
@@ -85,10 +85,10 @@
     "STATUS_MSG": {
       "description": "custmize with your message",
       "required": false,
-      "value": "LOFT XMD SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
+      "value": "ANZADY MD SUCCESSFULLY VIEWED YOUR STATUS 💖💚"
     },
-    "antidelete": {
-      "description": "bot will forward deleted messages if you make it true",
+    "ANTI_DELETE": {
+   "option": "bot will forward deleted messages if you make it true",
       "required": false,
       "value": "true"
     }
