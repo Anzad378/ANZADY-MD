@@ -8,7 +8,7 @@ let msg = await generateWAMessageFromContent(m.chat, {
     degreesLongitude: 0,
     name: "LOFT XMD 🚀 repo click here ",
     address: "Tanzania",
-    url: "https://github.com/LOFTXMD23/Loft-xmd-s24",
+    url: "https://github.com/Anzad378/ANZADY-MD",
     isLive: true,
     accuracyInMeters: 0,
     speedInMps: 0,
