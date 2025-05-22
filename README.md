@@ -67,7 +67,7 @@
 ---
 
 
-**MADE IN TANZANIA BY LOFT XMD**
+**MADE IN TANZANIA BY ANZADY-MD**
  
  
  -------------------------------
@@ -75,7 +75,7 @@
  📱**CONTACT ANZADY-MD TEAM**
 <p align="center">
   <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://wa.me/255654667145"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://wa.me/255654667145"> <"> </a>
   <a 
 
 
