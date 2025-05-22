@@ -1,6 +1,6 @@
 FROM quay.io/gurusensei/gurubhay:latest
 
-RUN git clone https://github.com/Anzad378/ANZADY-MD/root/prince
+RUN git clone https://github.com/Anzad378/ANZADY-MD/root/Anzad378
 
 WORKDIR /root/lazack/
 
