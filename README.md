@@ -18,7 +18,8 @@
 
 
 <p align="center">
-  <img src="" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
+  <img src="![InShot_20250514_075822743](https://github.com/user-attachments/assets/eeab0486-ab81-414a-b1bb-427ab294cce2)
+" alt="DAVINCS-MD Banner" width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
 
