@@ -64,21 +64,17 @@
   <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/join group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
----
+📲 **CONTACT WITH ANZADY-MD**
+
+<a href="https://wa.me/255654667145">
+  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/contact with me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+</a>
 
 
 **MADE IN TANZANIA BY ANZADY-MD**
  
  
  -------------------------------
-
- 📱**CONTACT ANZADY-MD TEAM**
-<p align="center">
-  <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://wa.me/255654667145"> <"> </a>
-  <a 
-
-
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg)
