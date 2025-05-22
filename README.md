@@ -18,10 +18,6 @@
 
 ![Screenshot_20250511-205921](https://github.com/user-attachments/assets/ab6acf9e-17a1-4f7f-a066-d42fa6bac320)
 
-<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="800">
-<br><br>
-
-
 
    # <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" /> &nbsp; WELCOME TO ANZADY-MD &nbsp; <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px" />
 
