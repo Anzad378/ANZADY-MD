@@ -59,8 +59,9 @@
 
 
 🌐**JOINI IN OUR GROUP** 
+
 <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
-  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/joingroup -25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/join group -25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
 ---
@@ -71,10 +72,10 @@
  
  -------------------------------
 
- 📱**CONTACT LOFT-XMD TEAM**
+ 📱**CONTACT ANZADY-MD TEAM**
 <p align="center">
   <a href=""> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
-  <a href="https://wa.me/255778018545"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
+  <a href="https://wa.me/255654667145"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="13%"> </a>
   <a 
 
 
