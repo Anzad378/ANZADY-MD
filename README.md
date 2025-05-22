@@ -16,10 +16,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=25&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=CREATED+BY+ANZADY;ANZADY+TECH;POWERED+BY+ANZADY;FAST++SAFE+RELIABLE" alt="Typing animation for features" />
 </p>
 
-
-![_37fc6636-9e33-4127-aa67-c08ba98f738d](https://github.com/user-attachments/assets/e28d5ebf-2b5b-4d2f-a41f-ebeb6e5970b3)
-
-
 ![anzad](https://github.com/user-attachments/assets/656aa50a-520a-4852-a013-b296c7e7e7c4)
 
 
