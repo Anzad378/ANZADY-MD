@@ -18,8 +18,8 @@
 
 
 <p align="center">
-  <img src="![anzad](https://github.com/user-attachments/assets/f429f76b-7520-4b95-83f3-71e5d6cfd44a)
-" alt="![InShot_20250514_075822743](https://github.com/user-attachments/assets/a9f39fde-0335-49c8-8a1b-79daed9d0c63)
+  <img src="https://github.com/user-attachments/assets/f429f76b-7520-4b95-83f3-71e5d6cfd44a)
+" alt="[anzad]
 " width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
