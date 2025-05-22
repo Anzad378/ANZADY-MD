@@ -53,16 +53,16 @@
 ----------------------------------
 
  🌍 **ANZADY-MD SUPPORT**
-
 <a href="https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f">
   <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
 
-🌐**JOINI OUR GROUP** 
 
+🌐**JOINI IN OUR GROUP** 
 <a href="https://chat.whatsapp.com/FkBWBV2dsfFBoBSC61Sb7i">
-  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/Support channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+  <img height="30" title="SUPPORT GROUP" src="https://img.shields.io/badge/joingroup -25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
 </a>
+
 ---
 
 
