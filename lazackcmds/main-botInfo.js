@@ -68,7 +68,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ▢ Instagram :
   • https://instagram.com/kellymd
 ▢ GitHub :
-  • https://github.com/planet-md/KELLY-MD 
+  • https://github.com/Anzad378/ANZADY-MD 
 ▢ YouTube : 
   • https://www.youtube.com/@MickdadyHamzaMickey_mozy
 ▢ credit: 
