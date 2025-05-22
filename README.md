@@ -18,8 +18,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/eeab0486-ab81-414a-b1bb-427ab294cce2)
-" alt="![InShot_20250514_075822743](https://github.com/user-attachments/assets/c3f2f891-8fa4-4750-823c-d973d524183a)
+  <img src="https://files.catbox.moe/xbrltv.jpg" alt="![InShot_20250514_075822743](https://github.com/user-attachments/assets/a9f39fde-0335-49c8-8a1b-79daed9d0c63)
 " width="700" style="border-radius: 20px; box-shadow: 0 10px 20px rgba(0,0,0,0.2);"/>
 </p>
 
