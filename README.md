@@ -18,6 +18,8 @@
 
 ![Screenshot_20250511-205921](https://github.com/user-attachments/assets/ab6acf9e-17a1-4f7f-a066-d42fa6bac320)
 
+<img src="https://user-images.githubusercontent.com/74038190/212747903-e9bdf048-2dc8-41f9-b973-0e72ff07bfba.gif" width="500">
+<br><br>
 
 
 
