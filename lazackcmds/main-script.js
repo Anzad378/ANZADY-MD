@@ -6,7 +6,7 @@ let msg = await generateWAMessageFromContent(m.chat, {
   locationMessage: {
     degreesLatitude: 0,
     degreesLongitude: 0,
-    name: "LOFT XMD 🚀 repo click here ",
+    name: "ANZADY MD 🚀 repo click here ",
     address: "Tanzania",
     url: "https://github.com/Anzad378/ANZADY-MD",
     isLive: true,
