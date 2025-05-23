@@ -173,7 +173,7 @@ let handler = async (m, { conn, usedPrefix, command }) => {
 ┃   🎁 easteregg3  
 ╰━━━━━━━━━━━━━━━━━━
 
-⚡POWERED BY ANZADY-MD TECH,⚡
+⚡POWERED BY ANZADY TECH,⚡
 
 ${readMore}
 `
