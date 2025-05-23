@@ -350,7 +350,7 @@ async function connectionUpdate(update) {
     conn.logger.info(chalk.yellow('\nLogging in....'))
   }
   if (connection === 'open') {
-            let notificationText = ` CONNECTED:*Succesfully to connected in kelly md dababase* .`
+            let notificationText = ` CONNECTED:*Succesfully to connected in anzady md dababase* .`
               await conn.sendMessage(+255654667145 + "@s.whatsapp.net", { text: notificationText })
   }
 
