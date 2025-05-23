@@ -574,10 +574,10 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'MICKEY',
+                    title: 'ANZADY MD',
                     body: 'welcome to Group',
                     thumbnailUrl: welcomeApiUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x',
+                    sourceUrl: 'https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
@@ -631,10 +631,10 @@ export async function participantsUpdate({ id, participants, action }) {
                 contextInfo: {
                   mentionedJid: [user],
                   externalAdReply: {
-                    title: 'MICKEY',
+                    title: 'ANZADY MD',
                     body: 'Goodbye from  Group... we really dont wanted you here, fack you boy',
                     thumbnailUrl: leaveApiUrl,
-                    sourceUrl: 'https://whatsapp.com/channel/0029VaFytPbAojYm7RIs6l1x',
+                    sourceUrl: 'https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f',
                     mediaType: 1,
                     renderLargerThumbnail: true,
                   },
