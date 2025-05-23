@@ -76,8 +76,9 @@
 
 
 **MADE IN TANZANIA BY ANZADY-MD**
- 
- 
+
+  
+  *THANKS SUPPORTER PRINCE TECH*
  -------------------------------
 
 
