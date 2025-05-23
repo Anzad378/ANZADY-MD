@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "255654667145; ANZADY-MD"
+      "value": "255654667145"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
