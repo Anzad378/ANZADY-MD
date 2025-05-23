@@ -1,10 +1,10 @@
 let handler = async (m, { conn, text, usedPrefix, command }) => {
   // Sound
   let name = m.pushName || conn.getName(m.sender)
-  var vn = 'https://cdn.jsdelivr.net/gh/KELLY/KELLY-MD@main/Botify/Mickey.mp3'
-  let url = 'https://github.com/Anzad378/ANZADY-MD/'
+  var vn = 'https://cdn.jsdelivr.net/gh/Mickeymozy/Mickey-trony@main/Botify/Mickey.mp3'
+  let url = 'https://github.com/Mickeymozy/Mickey-trony'
   let murl = 'https://youtu.be/3j_EIP--2t8?si=4TFWV0On6Bl1wr-e'
-  let img ='https://i.imgur.com/IbY6S1C.jpeg'
+  let img = 'https://i.imgur.com/2rN3Xy7.jpeg'
   let con = {
     key: {
       fromMe: false,
@@ -30,10 +30,10 @@ let handler = async (m, { conn, text, usedPrefix, command }) => {
     contextInfo: {
       mentionedJid: [m.sender],
       externalAdReply: {
-        title: 'ANZADY MD POWERFUL WHATSAPP BOT',
-        body: 'ANZADY MD',
+        title: 'MICKEY™ ',
+        body: 'Lazack md',
         thumbnailUrl: img,
-        sourceUrl: 'https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f',
+        sourceUrl: 'https://chat.whatsapp.com/CAKGysbedAWCrGmrm5bOiz',
         mediaType: 1,
         renderLargerThumbnail: true,
       },
