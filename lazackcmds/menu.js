@@ -135,8 +135,9 @@ ${readMore}
 ├─ ✦ ${usedPrefix}ai
 │
 ╰────────────────────╯
+@POWERED BY ANZADY-MD
 
-🌐 *Visit*: https://home.lazackorganisation.my.id
+🌐 *Visit*: https://whatsapp.com/channel/0029Vb6CC2dB4hdPp1CrYv0f
 
 💡 *Tip*: Use the prefix *${usedPrefix}* and one of the commands above. For feedback, use ${usedPrefix}report.
 `
