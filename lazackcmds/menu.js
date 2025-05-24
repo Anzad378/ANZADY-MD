@@ -38,10 +38,10 @@ let quote = quotes[Math.floor(Math.random() * quotes.length)];
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `
 ╔══════════════════════╗
-║ 🌟 *ANZADI-MD* 🌟
+║ 🌟 *ANZADY-MD* 🌟
 ║ ─────────────────────
 ║ 📌 *Version*: 1.0.1
-║ 👨‍💻 *Owner*: ANZADI
+║ 👨‍💻 *Owner*: ANZADY
 ║ 📞 *Contact*: 
 ║ 💻 *Platform*: *𝙇𝙄𝙉𝙐𝙓*
 ║ 🔒 *Mode*: *ℙ𝕌𝔹𝕃𝕀ℂ*
